@@ -16,11 +16,18 @@ A website showcasing my portfolio containing all the projects I have undergone a
 
 ## Certifcations
 
+
+
+
 ## Education
 
-2023 - 2024 - University of Sheffield - Master of Science (Data Analytics - Computer Science)
+Master of Science in Data Analytics  -  2023 - 2024
+University of Sheffield
+Sheffield, UK
 
-2018 - 2023 - Indian Institute of Information Technology (IIIT, India)
+Bachelor of Technology in Electronics and Communications Engineering - 2018 - 2023
+Indian Institute of Information Technology
+Chennai, India
 
 ## Resume
 
@@ -31,4 +38,5 @@ Attatch file!
 ## Contact
 
 Email - dsharath01@gmail.com
-LinkedIn - www.linkedin.com/in/sharath-devanand
+
+LinkedIn - https://www.linkedin.com/in/sharath-devanand
