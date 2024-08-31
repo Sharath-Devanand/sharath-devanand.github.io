@@ -9,6 +9,11 @@ A website showcasing my portfolio containing all the projects I have undergone a
 
 ## Some passions projects
 
+| ![Project 1 Image](https://via.placeholder.com/150) <br> [**Project 1**](https://github.com/username/project1) | ![Project 2 Image](https://via.placeholder.com/150) <br> [**Project 2**](https://github.com/username/project2) | ![Project 3 Image](https://via.placeholder.com/150) <br> [**Project 3**](https://github.com/username/project3) | ![Project 4 Image](https://via.placeholder.com/150) <br> [**Project 4**](https://github.com/username/project4) |
+| --- | --- | --- | --- |
+| ![Project 5 Image](https://via.placeholder.com/150) <br> [**Project 5**](https://github.com/username/project5) | ![Project 6 Image](https://via.placeholder.com/150) <br> [**Project 6**](https://github.com/username/project6) | ![Project 7 Image](https://via.placeholder.com/150) <br> [**Project 7**](https://github.com/username/project7) | ![Project 8 Image](https://via.placeholder.com/150) <br> [**Project 8**](https://github.com/username/project8) |
+
+
 ## Certifcations
 
 ## Education
