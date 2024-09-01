@@ -1,7 +1,7 @@
 
 # Everything Data!
 
-![](https://github.com/Sharath-Devanand/sharath-devanand.github.io/blob/master/sharath_photo.png)
+![](https://raw.githubusercontent.com/Sharath-Devanand/sharath-devanand.github.io/master/sharath_photo.png)
 
 ### Graduate Data Analyst seeking entry-level opportunities
 
