@@ -1,7 +1,9 @@
 
 # Everything Data!
 
-### I am a Graduate Data Analyst from The University of Sheffield looking for entry-level job opportunities in the UK!
+
+
+### Graduate Data Analyst seeking entry-level opportunities
 
 ## About me
 
