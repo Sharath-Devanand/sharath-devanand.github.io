@@ -18,7 +18,7 @@ On a personal note, I grew up by the beach, have been playing the keyboard since
 | ![Project 5 Image](https://via.placeholder.com/150) <br> [**Project 5**](https://github.com/username/project5) | ![Project 6 Image](https://via.placeholder.com/150) <br> [**Project 6**](https://github.com/username/project6) | ![Project 7 Image](https://via.placeholder.com/150) <br> [**Project 7**](https://github.com/username/project7) | ![Project 8 Image](https://via.placeholder.com/150) <br> [**Project 8**](https://github.com/username/project8) |
 
 
-## Certifcations
+## Certifications
 
 
 
